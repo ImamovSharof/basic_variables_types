@@ -10,4 +10,9 @@ print your last name, then print your first name at the bottom.
 
 void main() {
   // write your code here
+  String n, f;
+  f= 'Imamov';
+  n= 'Sharof';
+  print('Imamov'); 
+  print('Sharof');
 }
